@@ -1,0 +1,31 @@
+_repo: Flower-of-the-Dusk_18057
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18057-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reed, Myrtle
+    alias: Green, Olive
+    birthdate: 1874
+    deathdate: 1911
+    gutenberg_agent_id: '577'
+    url: http://www.gutenberg.org/2009/agents/577
+    wikipedia: http://www.online-literature.com/myrtle-reed/
+description: Cover -- Contents.
+gutenberg_issued: '2006-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'People with disabilities -- Fiction'
+- !lcsh 'Blind -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Love stories'
+title: Flower of the Dusk
+url: http://www.gutenberg.org/ebooks/18057
